@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AntMAN"]
 	path = AntMAN
 	url = https://github.com/bbodin/antman
-	shallow = true
 	subdir = AntMAN
-	registered = true
